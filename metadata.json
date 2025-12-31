@@ -1,0 +1,5 @@
+{
+  "name": "Copy of Hoja de Stock Inteligente",
+  "description": "Una aplicación de gestión de inventario basada en el boceto 'Hoja de Stock', con seguimiento de entradas, salidas y cálculos automáticos de existencias.",
+  "requestFramePermissions": []
+}
